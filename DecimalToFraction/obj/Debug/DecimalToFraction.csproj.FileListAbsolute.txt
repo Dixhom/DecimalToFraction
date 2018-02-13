@@ -1,0 +1,7 @@
+E:\workspace\c#\DecimalToFraction\DecimalToFraction\bin\Debug\DecimalToFraction.exe.config
+E:\workspace\c#\DecimalToFraction\DecimalToFraction\bin\Debug\DecimalToFraction.exe
+E:\workspace\c#\DecimalToFraction\DecimalToFraction\bin\Debug\DecimalToFraction.pdb
+E:\workspace\c#\DecimalToFraction\DecimalToFraction\obj\Debug\DecimalToFraction.csprojResolveAssemblyReference.cache
+E:\workspace\c#\DecimalToFraction\DecimalToFraction\obj\Debug\DecimalToFraction.csproj.CoreCompileInputs.cache
+E:\workspace\c#\DecimalToFraction\DecimalToFraction\obj\Debug\DecimalToFraction.exe
+E:\workspace\c#\DecimalToFraction\DecimalToFraction\obj\Debug\DecimalToFraction.pdb
